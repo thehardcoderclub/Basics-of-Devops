@@ -2,6 +2,7 @@
 ## Topic 1: SDLC & SDLC Models
 
 ---
+<img width="388" height="349" alt="image" src="https://github.com/user-attachments/assets/15107538-a8b5-4108-8ecd-3b94b2d54ac6" />
 
 ## 1. What is SDLC?
 SDLC (Software Development Life Cycle) is the process used to design, develop, test, deploy, and maintain software.
